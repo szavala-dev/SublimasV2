@@ -1,0 +1,12 @@
+C:\Users\feder\source\repos\SistemaSublimas\SistemaSublimas.Utilidades\bin\Debug\net7.0\SistemaSublimas.Utilidades.deps.json
+C:\Users\feder\source\repos\SistemaSublimas\SistemaSublimas.Utilidades\bin\Debug\net7.0\SistemaSublimas.Utilidades.dll
+C:\Users\feder\source\repos\SistemaSublimas\SistemaSublimas.Utilidades\bin\Debug\net7.0\SistemaSublimas.Utilidades.pdb
+C:\Users\feder\source\repos\SistemaSublimas\SistemaSublimas.Utilidades\obj\Debug\net7.0\SistemaSublimas.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\source\repos\SistemaSublimas\SistemaSublimas.Utilidades\obj\Debug\net7.0\SistemaSublimas.Utilidades.AssemblyInfoInputs.cache
+C:\Users\feder\source\repos\SistemaSublimas\SistemaSublimas.Utilidades\obj\Debug\net7.0\SistemaSublimas.Utilidades.AssemblyInfo.cs
+C:\Users\feder\source\repos\SistemaSublimas\SistemaSublimas.Utilidades\obj\Debug\net7.0\SistemaSublimas.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\source\repos\SistemaSublimas\SistemaSublimas.Utilidades\obj\Debug\net7.0\SistemaSublimas.Utilidades.sourcelink.json
+C:\Users\feder\source\repos\SistemaSublimas\SistemaSublimas.Utilidades\obj\Debug\net7.0\SistemaSublimas.Utilidades.dll
+C:\Users\feder\source\repos\SistemaSublimas\SistemaSublimas.Utilidades\obj\Debug\net7.0\refint\SistemaSublimas.Utilidades.dll
+C:\Users\feder\source\repos\SistemaSublimas\SistemaSublimas.Utilidades\obj\Debug\net7.0\SistemaSublimas.Utilidades.pdb
+C:\Users\feder\source\repos\SistemaSublimas\SistemaSublimas.Utilidades\obj\Debug\net7.0\ref\SistemaSublimas.Utilidades.dll

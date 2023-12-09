@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SistemaSublimas.Modelos/1.0.0": {
+        "dependencies": {
+          "SistemaSublimas.Utilidades": "1.0.0"
+        },
+        "runtime": {
+          "SistemaSublimas.Modelos.dll": {}
+        }
+      },
+      "SistemaSublimas.Utilidades/1.0.0": {
+        "runtime": {
+          "SistemaSublimas.Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaSublimas.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaSublimas.Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
