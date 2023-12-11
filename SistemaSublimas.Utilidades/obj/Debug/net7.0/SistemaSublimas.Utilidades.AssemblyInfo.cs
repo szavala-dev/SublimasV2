@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaSublimas.Utilidades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd375e13c509c06280f54aac34c6b088bc79a297")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e61a03015ac020c46fec960c90658943ef541adf")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaSublimas.Utilidades")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaSublimas.Utilidades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

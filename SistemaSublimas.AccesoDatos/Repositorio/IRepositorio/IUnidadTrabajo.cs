@@ -12,6 +12,8 @@ namespace SistemaSublimas.AccesoDatos.Repositorio.IRepositorio
         ICategoriaRepositorio Categoria { get; }
 
         IMarcaRepositorio Marca { get; }
+        IProductoRepositorio Producto { get; }
+
         Task Guardar();
 
     }

@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
-    <Nullable>enable</Nullable>
+
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-SistemaSublimas-b481afb2-4805-4882-959b-7c670ffc34dc</UserSecretsId>
   </PropertyGroup>
@@ -24,6 +24,10 @@
     <ProjectReference Include="..\SistemaSublimas.AccesoDatos\SistemaSublimas.AccesoDatos.csproj" />
     <ProjectReference Include="..\SistemaSublimas.Modelos\SistemaSublimas.Modelos.csproj" />
     <ProjectReference Include="..\SistemaSublimas.Utilidades\SistemaSublimas.Utilidades.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\imagenes\productos\" />
   </ItemGroup>
 
 </Project>

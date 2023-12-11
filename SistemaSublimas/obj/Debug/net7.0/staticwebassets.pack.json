@@ -13,12 +13,28 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\imagenes\\Logo.ico",
+      "PackagePath": "staticwebassets\\imagenes\\Logo.ico"
+    },
+    {
+      "Id": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\imagenes\\Logo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\imagenes\\productos\\81ed96eb-f947-4578-a301-d4aecaf12225.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\81ed96eb-f947-4578-a301-d4aecaf12225.jpg"
+    },
+    {
       "Id": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\js\\categoria.js",
       "PackagePath": "staticwebassets\\js\\categoria.js"
     },
     {
       "Id": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\js\\marca.js",
       "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
     },
     {
       "Id": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\js\\site.js",
