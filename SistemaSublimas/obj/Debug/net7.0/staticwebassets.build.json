@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "U22ab/n9Tl1QEuw4u7stbqdMK8dlFxQNnRp4hx5e7No=",
+  "Hash": "1y/6plbgc1dLV3caTVqd0EiCUdMk6GC6tRBqYO4lUkQ=",
   "Source": "SistemaSublimas",
   "BasePath": "_content/SistemaSublimas",
   "Mode": "Default",
@@ -1250,6 +1250,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\js\\tienda.js",
+      "SourceId": "SistemaSublimas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\",
+      "BasePath": "_content/SistemaSublimas",
+      "RelativePath": "js/tienda.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\tienda.js"
     },
     {
       "Identity": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
