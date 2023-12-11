@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4l+74/BudSReW9WBsQobvh2KKI+NfqVGPmCOlucHShw=",
+  "Hash": "wz2h7C5CuyMkeuz5FF4vmdZWFRp6g1cwGHS3Fa8tZiE=",
   "Source": "SistemaSublimas",
   "BasePath": "_content/SistemaSublimas",
   "Mode": "Default",
@@ -1250,6 +1250,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
+    },
+    {
+      "Identity": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\js\\marca.js",
+      "SourceId": "SistemaSublimas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\",
+      "BasePath": "_content/SistemaSublimas",
+      "RelativePath": "js/marca.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\marca.js"
     },
     {
       "Identity": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\js\\site.js",

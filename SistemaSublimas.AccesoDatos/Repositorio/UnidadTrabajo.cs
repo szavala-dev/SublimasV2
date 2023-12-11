@@ -17,11 +17,14 @@ namespace SistemaSublimas.AccesoDatos.Repositorio
 
         public ICategoriaRepositorio Categoria { get; private set; }
 
+        public IMarcaRepositorio Marca { get; private set; }
+
         public UnidadTrabajo(ApplicationDbContext db)  
         {
             _db = db;
             Tienda = new TiendaRepositorio(_db);
             Categoria = new CategoriaRepositorio(_db);
+            Marca = new MarcaRepositorio(_db);
         }
 
         public void Dispose()

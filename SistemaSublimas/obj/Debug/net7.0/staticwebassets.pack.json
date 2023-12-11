@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\categoria.js"
     },
     {
+      "Id": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\js\\marca.js",
+      "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
       "Id": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
