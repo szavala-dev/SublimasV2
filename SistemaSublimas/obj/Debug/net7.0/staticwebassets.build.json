@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1y/6plbgc1dLV3caTVqd0EiCUdMk6GC6tRBqYO4lUkQ=",
+  "Hash": "4l+74/BudSReW9WBsQobvh2KKI+NfqVGPmCOlucHShw=",
   "Source": "SistemaSublimas",
   "BasePath": "_content/SistemaSublimas",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\js\\categoria.js",
+      "SourceId": "SistemaSublimas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\",
+      "BasePath": "_content/SistemaSublimas",
+      "RelativePath": "js/categoria.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
     },
     {
       "Identity": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\js\\site.js",

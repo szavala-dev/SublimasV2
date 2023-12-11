@@ -9,6 +9,7 @@ namespace SistemaSublimas.AccesoDatos.Repositorio.IRepositorio
     public interface IUnidadTrabajo : IDisposable
     {
         ITiendaRepositorio Tienda {get;}
+        ICategoriaRepositorio Categoria { get; }
 
         Task Guardar();
 

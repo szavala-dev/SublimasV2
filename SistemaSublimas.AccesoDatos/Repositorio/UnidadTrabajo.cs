@@ -14,10 +14,14 @@ namespace SistemaSublimas.AccesoDatos.Repositorio
         private readonly ApplicationDbContext _db;
         
         public ITiendaRepositorio Tienda {  get; private set; }
+
+        public ICategoriaRepositorio Categoria { get; private set; }
+
         public UnidadTrabajo(ApplicationDbContext db)  
         {
             _db = db;
             Tienda = new TiendaRepositorio(_db);
+            Categoria = new CategoriaRepositorio(_db);
         }
 
         public void Dispose()

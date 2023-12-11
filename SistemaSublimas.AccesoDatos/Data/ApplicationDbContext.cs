@@ -12,7 +12,7 @@ namespace SistemaSublimas.AccesoDatos.Data
         {
         }
         public DbSet<Tienda> Tiendas { get; set; }
-
+        public DbSet<Categoria> Categorias { get; set; }
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
