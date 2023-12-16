@@ -28,9 +28,7 @@ function loadDataTable() {
             { "data": "descripcion" },
             { "data": "categoria.nombre" },
             { "data": "marca.nombre" },
-            {
-                "data": "precio", "className": "text-end",
-                "render": function (data) {
+            { "data": "precio", "className": "text-end","render": function (data) {
                     var d = data.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');//expresion regular relacionado con precio
                     return d;
                 }
