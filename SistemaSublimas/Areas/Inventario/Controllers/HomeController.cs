@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SistemaSublimas.AccesoDatos.Repositorio;
 using SistemaSublimas.AccesoDatos.Repositorio.IRepositorio;
 using SistemaSublimas.Modelos;
 using SistemaSublimas.Modelos.ViewModels;
@@ -22,7 +21,7 @@ namespace SistemaSublimas.Areas.Inventario.Controllers
         public async Task<IActionResult> Index()
         {
             IEnumerable<Producto> productoLista = await _unidadTrabajo.Producto.ObtenerTodos();
-            return View();
+            return View(productoLista);
         }
 
         public IActionResult Privacy()

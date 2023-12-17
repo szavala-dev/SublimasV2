@@ -13,12 +13,12 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\imagenes\\Logo.ico",
-      "PackagePath": "staticwebassets\\imagenes\\Logo.ico"
-    },
-    {
       "Id": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\imagenes\\Logo.jpg",
       "PackagePath": "staticwebassets\\imagenes\\Logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\imagenes\\icono.ico",
+      "PackagePath": "staticwebassets\\imagenes\\icono.ico"
     },
     {
       "Id": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\imagenes\\productos\\56ba2cf6-b759-4d3f-b780-0906f5beb616.jpg",
@@ -31,6 +31,10 @@
     {
       "Id": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\imagenes\\productos\\c13c144b-9a95-4b6f-ac20-831191a44621.jpg",
       "PackagePath": "staticwebassets\\imagenes\\productos\\c13c144b-9a95-4b6f-ac20-831191a44621.jpg"
+    },
+    {
+      "Id": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\imagenes\\productos\\e6a14c97-b415-433d-87bd-3b04fc35d89e.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\productos\\e6a14c97-b415-433d-87bd-3b04fc35d89e.jpg"
     },
     {
       "Id": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\js\\categoria.js",

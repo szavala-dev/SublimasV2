@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ds/s4yJMLAlOmgrrhsCTfc6NF+pSMa+XmnrDklsVg3U=",
+  "Hash": "Xhfe4cUjujLnnuJuZi7FjSkbK9O2uiAgki21pggojJY=",
   "Source": "SistemaSublimas",
   "BasePath": "_content/SistemaSublimas",
   "Mode": "Default",
@@ -1233,12 +1233,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\imagenes\\Logo.ico",
+      "Identity": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\imagenes\\icono.ico",
       "SourceId": "SistemaSublimas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\",
       "BasePath": "_content/SistemaSublimas",
-      "RelativePath": "imagenes/Logo.ico",
+      "RelativePath": "imagenes/icono.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1249,7 +1249,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\Logo.ico"
+      "OriginalItemSpec": "wwwroot\\imagenes\\icono.ico"
     },
     {
       "Identity": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\imagenes\\Logo.jpg",
@@ -1326,6 +1326,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\productos\\c13c144b-9a95-4b6f-ac20-831191a44621.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\imagenes\\productos\\e6a14c97-b415-433d-87bd-3b04fc35d89e.jpg",
+      "SourceId": "SistemaSublimas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\",
+      "BasePath": "_content/SistemaSublimas",
+      "RelativePath": "imagenes/productos/e6a14c97-b415-433d-87bd-3b04fc35d89e.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\productos\\e6a14c97-b415-433d-87bd-3b04fc35d89e.jpg"
     },
     {
       "Identity": "C:\\Users\\feder\\source\\repos\\SistemaSublimas\\SistemaSublimas\\wwwroot\\js\\categoria.js",
