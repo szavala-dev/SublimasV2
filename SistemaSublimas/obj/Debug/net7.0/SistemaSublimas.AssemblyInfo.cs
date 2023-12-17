@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaSublimas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b1b42c98b9e4a18852345e689be58c6161389a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d32f710565d6d1db735cf088fdc64436645a1e75")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaSublimas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaSublimas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
