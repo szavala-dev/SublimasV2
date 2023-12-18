@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaSublimas.AccesoDatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d32f710565d6d1db735cf088fdc64436645a1e75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea7cdf4633b4ceebe0a23e6141b5867989da1ed4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaSublimas.AccesoDatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaSublimas.AccesoDatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
